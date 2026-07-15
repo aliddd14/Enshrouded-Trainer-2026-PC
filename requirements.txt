@@ -1,0 +1,7 @@
+psutil
+keyboard
+pygame
+colorama
+mouse
+opencv-python
+requests
